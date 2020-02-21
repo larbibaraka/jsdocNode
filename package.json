@@ -4,8 +4,11 @@
   "description": "trying JSDocfor nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "docs" : "jsdoc -c jsdoc.json"
   },
   "author": "larbi baraka",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.6.3"
+  }
 }
