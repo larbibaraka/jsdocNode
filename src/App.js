@@ -43,6 +43,7 @@ class Post {
 
     /**
      * List of all posts  for given number
+     * @param {Object} options
      * @param {Number} [options.postnumber=10] the post number
      * @return {Posts[]} posts returned by the Api 
      */
