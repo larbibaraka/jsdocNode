@@ -14,10 +14,12 @@
  * 
  * @see  http://www.google.com
  * @todo  implements all the methods
- * 
+ * @author Baraka Larbi
  */
 class Post {
     /**
+     * 
+     * @constructor
      * @param {Object} options
      * @param {String} options.host the host of your app
      * @param {String} options.user the user of the app
