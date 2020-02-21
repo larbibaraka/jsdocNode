@@ -9,7 +9,8 @@
  *  version : 2
  * })
  * 
- * const posts =  post.posts()
+ * const posts =  post.posts();
+ * 
  * 
  * @see  http://www.google.com
  * @todo  implements all the methods
