@@ -1,0 +1,11 @@
+{
+  "name": "documantingnodejsapp",
+  "version": "1.0.0",
+  "description": "trying JSDocfor nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "larbi baraka",
+  "license": "MIT"
+}
