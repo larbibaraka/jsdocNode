@@ -7,7 +7,7 @@
     "plugins" : [
         "plugins/markdown",
         "jsdoc-mermaid",
-        "node_modules/better-docs/category",
+        "node_modules/better-docs/category"
 
     ],
     "opts" : {
