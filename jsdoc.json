@@ -12,7 +12,8 @@
         "readme" : "./README.md",
         "destination" : "docs/",
         "rescurse"  : true,
-        "verbose" : true
+        "verbose" : true,
+        "template" : "node_modules/better-docs"
     }
 
 }
