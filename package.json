@@ -11,5 +11,8 @@
   "devDependencies": {
     "better-docs": "^1.4.7",
     "jsdoc": "^3.6.3"
+  },
+  "dependencies": {
+    "jsdoc-mermaid": "^1.0.0"
   }
 }
