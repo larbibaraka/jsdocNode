@@ -1,16 +1,16 @@
 /**
- * Report Builder
+ * Represents a book.
+ * @constructor
+ * @param {string} title - The title of the book.
+ * @param {string} author - The author of the book.
+ *
  * @mermaid
- * sequenceDiagram
- *   participant App
- *   participant Post
- *   App->>Post:posts({postsnumber})
- *   Post->>App:ProjectObject
- *   App->>Post:search()
- *   Post->>App:IssueObject[]
+ *   graph TD;
+ *     A-->B;
+ *     A-->C;
+ *     B-->D;
+ *     C-->D;
  */
-class ReportBuilder {
-    constructor(args) {
-
-    }
-}
+function Book(title, author) {
+    /* ... */
+  }
