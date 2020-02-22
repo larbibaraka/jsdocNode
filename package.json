@@ -4,11 +4,12 @@
   "description": "trying JSDocfor nodejs",
   "main": "index.js",
   "scripts": {
-   "docs" : "jsdoc -c jsdoc.json"
+    "docs": "jsdoc -c jsdoc.json"
   },
   "author": "larbi baraka",
   "license": "MIT",
   "devDependencies": {
+    "better-docs": "^1.4.7",
     "jsdoc": "^3.6.3"
   }
 }
