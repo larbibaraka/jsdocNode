@@ -15,6 +15,7 @@
  * @see  http://www.google.com
  * @todo  implements all the methods
  * @author Baraka Larbi
+ * @category  Post
  */
 class Post {
     /**
