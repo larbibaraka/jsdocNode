@@ -6,9 +6,8 @@
     },
     "plugins" : [
         "plugins/markdown",
-        "jsdoc-mermaid",
+        "node_modules/jsdoc-mermaid",
         "node_modules/better-docs/category"
-
     ],
     "opts" : {
         "encoding" : "utf8",
