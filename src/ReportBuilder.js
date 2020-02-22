@@ -5,11 +5,9 @@
  * @param {string} author - The author of the book.
  *
  * @mermaid
- *   graph TD;
- *     A-->B;
- *     A-->C;
- *     B-->D;
- *     C-->D;
+ *   sequenceDiagram;
+ *     Alice->>John: Hello John, how are you?
+ *     John-->>Alice: Great!
  */
 function Book(title, author) {
     /* ... */
